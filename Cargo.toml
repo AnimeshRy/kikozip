@@ -3,7 +3,7 @@ authors = ["Animesh Singh"]
 name = "kikozip"
 description = "Tool for extracting zip archives"
 version = "0.2.1"
-edition = "2021"
+edition = "2024"
 
 [dependencies]
 zip = { version = "0.6", features = ["deflate", "aes-crypto"] }
