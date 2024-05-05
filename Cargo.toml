@@ -1,6 +1,6 @@
 [package]
 authors = ["Animesh Singh"]
-name = "runzip"
+name = "kikozip"
 description = "Tool for extracting zip archives"
 version = "0.2.1"
 edition = "2021"
